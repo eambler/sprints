@@ -4,8 +4,8 @@
   "tutorials": [
     {
       "title": "Introduction",
-      "description": "Learn more about Oracle MCP.",
-      "filename": "mcp.md"
+      "description": "Learn more about Oracle MCP",
+      "filename": "../mcp.md"
     }
   ]
 }
